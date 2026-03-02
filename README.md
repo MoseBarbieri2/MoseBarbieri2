@@ -3,7 +3,8 @@ Not much to say, for now.
 Currently studying in this [universisty course](https://corsi.unibo.it/1cycle/ComputerSystemTechnologies).
 
 - In this account there will be mostly projects regarding that course.
-- If you are seeing this and you want to __reach out__ to me <ins>**not on the email of university**</ins>; mail [here](mailto:moses.barbieri05.job@gmail.com)
+- If you are seeing this and you want to __reach out__ to me <ins>*not* on the email of university</ins>; mail [here](mailto:moses.barbieri05.job@gmail.com)
+- If you are more comfortable with **Linkedin** this is my [profile](https://www.linkedin.com/in/mos%C3%A8-barbieri-492ba2316/)
 
 > “Don't let the noodles get soggy.” – Shinjiro Aragaki
 
