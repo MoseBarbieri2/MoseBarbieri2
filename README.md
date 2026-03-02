@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi
+Not much to say, for now. 
+Currently studying in this [universisty course](https://corsi.unibo.it/1cycle/ComputerSystemTechnologies).
+
+- In this account there will be mostly projects regarding that course.
+- If you are seeing this and you want to reach out to me not on the email of university mail [here](mailto:moses.barbieri05.job@gmail.com)
+
+> “Don't let the noodles get soggy.” – Shinjiro Aragaki
 
 <!--
 **MoseBarbieri2/MoseBarbieri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
